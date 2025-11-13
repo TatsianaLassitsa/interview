@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Question1\Question1.csproj" />
+    <ProjectReference Include="..\Question2\Question2.csproj" />
+    <ProjectReference Include="..\Question3\Question3.csproj" />
+  </ItemGroup>
+
+</Project>
